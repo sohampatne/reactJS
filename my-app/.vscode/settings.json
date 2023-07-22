@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/64ebbad8-82e1-4e94-9b00-8c0250b4810c/resourceGroups/my-websites/providers/Microsoft.Web/sites/my-will",
+    "appService.deploySubpath": "."
+}
