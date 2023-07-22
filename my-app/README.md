@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## Key Features of CRA (Create-React-App)
+  - Create modern react apps in seconds
+  - No build configuration needed
+  - Development environment is ready to go! (fast feedback loop
+  - Less build dependency(Babel or Webpack) management
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
